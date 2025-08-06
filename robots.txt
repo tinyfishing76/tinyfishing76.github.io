@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://https://tinyfishing76.github.io/sitemap.xml
